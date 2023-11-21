@@ -1,4 +1,4 @@
-module config
+module github.com/quibex/config
 
 go 1.21.1
 
